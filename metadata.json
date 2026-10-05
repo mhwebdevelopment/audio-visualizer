@@ -1,0 +1,7 @@
+{
+  "name": "Fractal Audio Visualizer",
+  "description": "A real-time audio visualization tool that transforms live microphone input into dynamic fractal patterns and waveforms, designed for use as a video background or green screen effect.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
